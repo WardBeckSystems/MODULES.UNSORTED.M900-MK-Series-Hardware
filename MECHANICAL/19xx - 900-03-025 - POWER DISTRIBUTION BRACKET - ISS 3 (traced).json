@@ -1,0 +1,109 @@
+{
+ "drawing": "Modules/UNSORTED/M900/MECHANICAL/19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3.jpg",
+ "version": 1,
+ "trace": "_traces/9ac9122df4120be3.svg",
+ "sheet": {
+  "number": "D 900-03-025",
+  "title": "POWER DISTRIBUTION / BRACKET",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "D",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1295],
+  "mm": [863.6, 559.2],
+  "mm_per_px": 0.4318
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [114.9, 0.0, 863.6, 558.7],
+ "outlines": {
+  "line": {"rings": 392, "straight": {"n": 3028, "mm": 14773.8}, "curved": {"n": 600, "mm": 1429.9}},
+  "text": {"rings": 226, "straight": {"n": 1280, "mm": 2580.0}, "curved": {"n": 392, "mm": 1010.6}},
+  "tb": {"rings": 17, "straight": {"n": 145, "mm": 344.5}, "curved": {"n": 25, "mm": 54.3}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2804, "straight": {"n": 3256, "mm": 7695.9}, "curved": {"n": 12, "mm": 20.4}},
+   "text": {"paths": 1332, "straight": {"n": 1701, "mm": 1941.7}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 227, "straight": {"n": 263, "mm": 768.1}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 136,
+  "orientation": {"horizontal": {"n": 1347, "mm": 5014.8}, "vertical": {"n": 1386, "mm": 2476.2}, "diagonal": {"n": 2487, "mm": 2914.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [435.5, 110.1], "r": 3.1, "kind": "arc", "span": 130, "from": ["centre line"], "start": 155},
+  {"c": [748.8, 20.2], "r": 2.4, "kind": "arc", "span": 160, "from": ["centre line"], "start": 102},
+  {"c": [692.6, 42.4], "r": 1.3, "kind": "arc", "span": 170, "from": ["centre line"], "start": 355},
+  {"c": [397.1, 98.5], "r": 1.3, "kind": "arc", "span": 170, "from": ["centre line"], "start": 85}
+ ],
+ "boxes": [
+  {"mm": [226.3, 402.4, 441.7, 427.9], "w": 215.5, "h": 25.5, "from": "ring"},
+  {"mm": [477.1, 382.1, 479.3, 385.6], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [383.9, 315.2, 386.0, 318.2], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [316.1, 201.5, 318.2, 204.7], "w": 2.2, "h": 3.1, "from": "ring"},
+  {"mm": [324.7, 201.7, 327.0, 204.7], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [745.3, 70.4, 829.9, 76.4], "w": 84.6, "h": 6.0, "from": "ring", "words": ["AEHSCN"], "in_title_block": true},
+  {"mm": [830.4, 70.8, 840.3, 76.4], "w": 9.9, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [721.1, 70.4, 732.8, 76.0], "w": 11.7, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [690.9, 52.2, 839.9, 70.4], "w": 149.0, "h": 18.1, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [152.4, 52.7, 154.6, 55.7], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [167.5, 52.7, 169.8, 55.7], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [725.9, 26.8, 840.3, 52.7], "w": 114.4, "h": 25.9, "from": "ring", "words": ["POWER   DISTRIBUTION", "BRACKET"]},
+  {"mm": [690.9, 45.8, 725.4, 51.8], "w": 34.5, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [690.9, 39.7, 725.4, 45.3], "w": 34.5, "h": 5.6, "from": "ring"},
+  {"mm": [691.3, 40.9, 696.1, 44.0], "w": 4.7, "h": 3.1, "from": "ring"},
+  {"mm": [696.5, 40.9, 698.7, 44.0], "w": 2.2, "h": 3.1, "from": "ring"},
+  {"mm": [690.9, 33.2, 725.4, 39.3], "w": 34.5, "h": 6.0, "from": "ring"},
+  {"mm": [691.3, 34.5, 696.1, 37.6], "w": 4.7, "h": 3.0, "from": "ring"},
+  {"mm": [690.9, 26.8, 725.4, 32.8], "w": 34.5, "h": 6.0, "from": "ring"},
+  {"mm": [825.2, 15.1, 840.3, 27.3], "w": 15.1, "h": 12.2, "from": "ring"},
+  {"mm": [755.2, 14.7, 824.3, 26.8], "w": 69.1, "h": 12.1, "from": "ring", "words": ["900-03-025"]},
+  {"mm": [690.9, 14.2, 708.6, 26.3], "w": 17.7, "h": 12.1, "from": "ring"},
+  {"mm": [709.0, 20.7, 744.0, 26.3], "w": 35.0, "h": 5.6, "from": "ring"},
+  {"mm": [744.4, 14.7, 754.8, 26.3], "w": 10.4, "h": 11.7, "from": "ring"},
+  {"mm": [709.9, 21.6, 712.1, 24.6], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [709.0, 14.2, 744.0, 20.3], "w": 35.0, "h": 6.0, "from": "ring", "words": ["Code;"]}
+ ],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [495.7, 382.1, 507.4, 386.5], "text": "Red\"d"},
+   {"mm": [280.7, 316.1, 292.8, 320.4], "text": "44.250"},
+   {"mm": [246.6, 242.2, 281.1, 275.8], "text": "5F"},
+   {"mm": [149.8, 197.8, 162.8, 202.1], "text": "CEINL"},
+   {"mm": [180.5, 198.6, 192.2, 202.0], "text": "psod"},
+   {"mm": [465.0, 192.2, 482.3, 196.5], "text": "CHAUFER"},
+   {"mm": [526.8, 192.2, 538.9, 196.5], "text": "REC D"},
+   {"mm": [114.0, 93.3, 164.5, 100.0], "text": "KATERIAL: ALUM"},
+   {"mm": [166.7, 93.3, 227.1, 100.9], "text": "ALLOY 080 THICK."},
+   {"mm": [357.5, 95.9, 369.2, 100.2], "text": "0,9Je"},
+   {"mm": [400.7, 99.3, 412.4, 103.6], "text": "0.250"},
+   {"mm": [114.0, 80.3, 135.6, 87.0], "text": "FINISH:"},
+   {"mm": [137.7, 80.3, 220.6, 88.0], "text": "SAND 120 GRIT AND PAINT"},
+   {"mm": [138.6, 73.8, 215.5, 81.5], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [138.6, 67.4, 164.5, 73.6], "text": "TEXCOTE"},
+   {"mm": [166.7, 67.4, 186.1, 75.0], "text": "VINYL,"},
+   {"mm": [778.1, 71.2, 795.4, 75.6], "text": "AEHSCN"},
+   {"mm": [699.9, 56.6, 732.3, 64.2], "text": "WBS"},
+   {"mm": [746.6, 56.6, 835.1, 67.1], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [426.6, 46.2, 440.4, 49.6], "text": "DAL"},
+   {"mm": [746.6, 39.3, 820.9, 47.9], "text": "POWER   DISTRIBUTION"},
+   {"mm": [766.9, 30.7, 799.3, 39.3], "text": "BRACKET"},
+   {"mm": [709.0, 15.1, 721.1, 19.4], "text": "Code;"},
+   {"mm": [766.0, 15.5, 814.4, 24.2], "text": "900-03-025"}
+  ]
+ },
+ "title_block": {"mm": [682.8, 45.5, 852.3, 78.7], "from": "title-block words (training set)", "text": ["AEHSCN", "WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical D 900-03-025, size D 864 × 559 mm, 2000 × 1295 px traced (0.432 mm/px)",
+  "- **Ink extent:** 115–864 mm across, 0–559 mm up",
+  "- **Outlines:** line 392 rings, 3,028 straight (14,774 mm) / 600 curved (1,430 mm); text 226 rings, 1,280 straight (2,580 mm) / 392 curved (1,011 mm); tb 17 rings, 145 straight (344 mm) / 25 curved (54.3 mm)",
+  "- **Centre lines:** 4,363 paths (136 closed); straight 10,406 mm, curved 20.4 mm; horizontal 5,015 mm, vertical 2,476 mm, diagonal 2,915 mm",
+  "- **Circles and arcs:** 0 circles, 4 arcs",
+  "- **Closed boxes:** 26 (5 in the title block); named: POWER   DISTRIBUTION BRACKET; 900-03-025; Code;",
+  "- **Words (OCR):** 27 in 24 lines: Red\"d · 44.250 · 5F · CEINL · psod · CHAUFER · REC D · KATERIAL: ALUM · ALLOY 080 THICK. · 0,9Je · 0.250 · FINISH:",
+  "- **Title block:** (683, 46)–(852, 79) mm: AEHSCN · WBS · WARD-BECK SYSTEMS"
+ ]
+}

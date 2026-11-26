@@ -1,0 +1,105 @@
+{
+ "drawing": "Modules/UNSORTED/M900/MECHANICAL/19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/ac5080699d1ff6f2.svg",
+ "sheet": {
+  "number": "D 900-03-035",
+  "title": "FRONT PANEL",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "D",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1296],
+  "mm": [863.6, 559.6],
+  "mm_per_px": 0.4318
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.9, 0.0, 863.6, 526.8],
+ "outlines": {
+  "line": {"rings": 347, "straight": {"n": 2984, "mm": 16469.5}, "curved": {"n": 470, "mm": 1161.1}},
+  "text": {"rings": 193, "straight": {"n": 1202, "mm": 2436.6}, "curved": {"n": 333, "mm": 864.6}},
+  "tb": {"rings": 15, "straight": {"n": 120, "mm": 314.7}, "curved": {"n": 17, "mm": 38.1}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2202, "straight": {"n": 2536, "mm": 8385.0}, "curved": {"n": 25, "mm": 49.9}},
+   "text": {"paths": 1289, "straight": {"n": 1586, "mm": 1740.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 220, "straight": {"n": 252, "mm": 759.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 94,
+  "orientation": {"horizontal": {"n": 1144, "mm": 4331.9}, "vertical": {"n": 1148, "mm": 3517.9}, "diagonal": {"n": 2082, "mm": 3035.8}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [469.2, 509.5], "r": 3.9, "kind": "arc", "span": 180, "from": ["centre line"], "start": 222},
+  {"c": [510.1, 101.0], "r": 3.6, "kind": "arc", "span": 92, "from": ["centre line"], "start": 46},
+  {"c": [637.0, 178.9], "r": 3.4, "kind": "arc", "span": 113, "from": ["centre line"], "start": 358},
+  {"c": [299.9, 462.8], "r": 3.3, "kind": "arc", "span": 118, "from": ["centre line"], "start": 1},
+  {"c": [633.5, 178.6], "r": 3.1, "kind": "arc", "span": 117, "from": ["centre line"], "start": 294},
+  {"c": [749.5, 23.0], "r": 2.3, "kind": "arc", "span": 219, "from": ["centre line"], "start": 97},
+  {"c": [187.8, 49.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [687.4, 206.0], "r": 1.3, "kind": "arc", "span": 210, "from": ["centre line"], "start": 253}
+ ],
+ "boxes": [
+  {"mm": [638.6, 457.7, 641.2, 459.9], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [725.0, 203.7, 729.8, 206.8], "w": 4.9, "h": 3.1, "from": "ring"},
+  {"mm": [293.2, 181.8, 295.8, 183.9], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [395.5, 96.3, 446.0, 108.8], "w": 50.5, "h": 12.5, "from": "ring", "words": ["PART NUMBER"]},
+  {"mm": [446.5, 95.4, 497.0, 108.0], "w": 50.5, "h": 12.5, "from": "ring", "words": ["MODULE COUNT"]},
+  {"mm": [497.4, 95.0, 522.5, 107.5], "w": 25.0, "h": 12.5, "from": "ring"},
+  {"mm": [395.5, 88.5, 445.6, 95.9], "w": 50.1, "h": 7.3, "from": "ring"},
+  {"mm": [497.4, 87.7, 522.0, 94.6], "w": 24.6, "h": 6.9, "from": "ring"},
+  {"mm": [513.0, 89.1, 515.1, 92.4], "w": 2.2, "h": 3.3, "from": "ring"},
+  {"mm": [395.5, 80.7, 445.6, 88.1], "w": 50.1, "h": 7.3, "from": "ring"},
+  {"mm": [446.5, 80.3, 496.6, 87.7], "w": 50.1, "h": 7.3, "from": "ring"},
+  {"mm": [497.4, 79.9, 522.0, 87.2], "w": 24.6, "h": 7.3, "from": "ring"},
+  {"mm": [434.0, 82.5, 436.1, 85.9], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [510.4, 81.6, 512.5, 85.1], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [497.4, 72.5, 522.0, 79.5], "w": 24.6, "h": 6.9, "from": "ring"},
+  {"mm": [395.5, 65.6, 445.6, 73.0], "w": 50.1, "h": 7.3, "from": "ring"},
+  {"mm": [691.7, 53.5, 841.1, 72.5], "w": 149.4, "h": 19.0, "from": "ring", "words": ["WARD-BECK SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [497.0, 64.8, 522.0, 71.7], "w": 25.0, "h": 6.9, "from": "ring"},
+  {"mm": [691.7, 48.8, 726.3, 54.8], "w": 34.5, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [726.7, 28.1, 841.1, 54.4], "w": 114.4, "h": 26.3, "from": "ring", "words": ["FRONT", "PANEL"]},
+  {"mm": [167.1, 47.9, 171.4, 51.0], "w": 4.3, "h": 3.0, "from": "ring"},
+  {"mm": [691.7, 42.3, 726.3, 48.4], "w": 34.5, "h": 6.0, "from": "ring"},
+  {"mm": [691.3, 36.3, 726.3, 42.3], "w": 35.0, "h": 6.0, "from": "ring"},
+  {"mm": [691.3, 29.4, 725.9, 35.8], "w": 34.5, "h": 6.5, "from": "ring"},
+  {"mm": [691.3, 17.3, 709.0, 29.4], "w": 17.7, "h": 12.1, "from": "ring"},
+  {"mm": [744.9, 16.4, 755.4, 28.5], "w": 10.6, "h": 12.1, "from": "ring"},
+  {"mm": [749.2, 20.7, 751.3, 24.6], "w": 2.2, "h": 3.9, "from": "ring"},
+  {"mm": [709.4, 16.8, 744.0, 22.9], "w": 34.5, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [255.6, 391.2, 267.7, 395.5], "text": "6 E00"},
+   {"mm": [95.4, 92.8, 207.7, 101.4], "text": "MATERIAL: ALUM ALLOY 0.064 MHICK"},
+   {"mm": [399.0, 97.2, 496.1, 105.7], "text": "PART NUMBER MODULE COUNT"},
+   {"mm": [95.4, 80.7, 117.0, 87.5], "text": "FINISH:"},
+   {"mm": [119.2, 79.9, 201.2, 87.6], "text": "SAND 120 GRIT AND PAINT"},
+   {"mm": [119.2, 72.1, 196.9, 80.7], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [119.2, 66.9, 166.7, 74.6], "text": "TEXCOTE VINYL."},
+   {"mm": [772.9, 73.0, 790.2, 77.3], "text": "REVSIS"},
+   {"mm": [702.1, 59.6, 734.5, 68.2], "text": "WBS"},
+   {"mm": [747.4, 58.3, 836.0, 69.3], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [101.5, 47.9, 126.1, 52.2], "text": "TOLERA \"cES"},
+   {"mm": [758.2, 36.7, 807.9, 45.3], "text": "FRONT PANEL"},
+   {"mm": [708.6, 22.5, 728.0, 29.2], "text": "DSC NO"},
+   {"mm": [769.0, 17.3, 817.8, 25.9], "text": "900-03-035"}
+  ]
+ },
+ "title_block": {"mm": [684.9, 47.1, 853.3, 80.2], "from": "title-block words (training set)", "text": ["REVSIS", "WBS", "WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical D 900-03-035, size D 864 × 560 mm, 2000 × 1296 px traced (0.432 mm/px)",
+  "- **Ink extent:** 1–864 mm across, 0–527 mm up",
+  "- **Outlines:** line 347 rings, 2,984 straight (16,470 mm) / 470 curved (1,161 mm); text 193 rings, 1,202 straight (2,437 mm) / 333 curved (865 mm); tb 15 rings, 120 straight (315 mm) / 17 curved (38.1 mm)",
+  "- **Centre lines:** 3,711 paths (94 closed); straight 10,886 mm, curved 49.9 mm; horizontal 4,332 mm, vertical 3,518 mm, diagonal 3,036 mm",
+  "- **Circles and arcs:** 1 circles, 7 arcs; largest r 1.7 @ (187.8, 49.0)",
+  "- **Closed boxes:** 28 (2 in the title block); named: PART NUMBER; MODULE COUNT; FRONT PANEL",
+  "- **Words (OCR):** 19 in 14 lines: 6 E00 · MATERIAL: ALUM ALLOY 0.064 MHICK · PART NUMBER MODULE COUNT · FINISH: · SAND 120 GRIT AND PAINT · TEXTURED BROWN (438C) · TEXCOTE VINYL. · REVSIS · WBS · WARD-BECK SYSTEMS · TOLERA \"cES · FRONT PANEL",
+  "- **Title block:** (685, 47)–(853, 80) mm: REVSIS · WBS · WARD-BECK SYSTEMS"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "drawing": "Modules/UNSORTED/M900/MECHANICAL/19xx - 900-03-211 - EQUALIZER MK SERIES CONSOLE SUPPORT TRIM - DRN DRG - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/1b8367959633e1cf.svg",
+ "sheet": {
+  "number": "D 900-03-211",
+  "title": "EQUALIZER MK SERIES / CONSOLE SUPPORT/TRIM",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "D",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1228],
+  "mm": [863.6, 530.3],
+  "mm_per_px": 0.4318
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.6, 6.5, 863.6, 478.9],
+ "outlines": {
+  "line": {"rings": 339, "straight": {"n": 3756, "mm": 18119.0}, "curved": {"n": 461, "mm": 1173.7}},
+  "text": {"rings": 306, "straight": {"n": 1773, "mm": 3373.4}, "curved": {"n": 586, "mm": 1459.5}},
+  "tb": {"rings": 22, "straight": {"n": 175, "mm": 388.7}, "curved": {"n": 44, "mm": 96.5}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 2412, "straight": {"n": 2683, "mm": 9252.3}, "curved": {"n": 23, "mm": 44.6}},
+   "text": {"paths": 1795, "straight": {"n": 2279, "mm": 2438.0}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 316, "straight": {"n": 358, "mm": 808.7}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 116,
+  "orientation": {"horizontal": {"n": 1378, "mm": 7429.7}, "vertical": {"n": 1386, "mm": 1955.1}, "diagonal": {"n": 2556, "mm": 3114.2}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [288.4, 291.4], "r": 4.8, "kind": "arc", "span": 118, "from": ["centre line"], "start": 152},
+  {"c": [767.0, 329.9], "r": 2.7, "kind": "arc", "span": 108, "from": ["centre line"], "start": 54},
+  {"c": [167.5, 432.1], "r": 2.3, "kind": "arc", "span": 146, "from": ["centre line"], "start": 200},
+  {"c": [694.4, 15.5], "r": 2.1, "kind": "arc", "span": 219, "from": ["centre line"], "start": 102},
+  {"c": [161.7, 292.3], "r": 2.1, "kind": "arc", "span": 145, "from": ["centre line"], "start": 203},
+  {"c": [411.2, 181.3], "r": 1.8, "kind": "arc", "span": 162, "from": ["centre line"], "start": 95},
+  {"c": [414.8, 181.4], "r": 1.7, "kind": "arc", "span": 257, "from": ["centre line"], "start": 113}
+ ],
+ "boxes": [
+  {"mm": [149.0, 428.3, 155.1, 431.4], "w": 6.2, "h": 3.0, "from": "ring"},
+  {"mm": [725.4, 407.1, 727.6, 410.6], "w": 2.2, "h": 3.6, "from": "ring"},
+  {"mm": [274.2, 330.3, 278.5, 333.3], "w": 4.3, "h": 3.0, "from": "ring"},
+  {"mm": [769.0, 323.0, 774.3, 326.0], "w": 5.3, "h": 3.0, "from": "ring"},
+  {"mm": [775.9, 319.0, 780.3, 322.1], "w": 4.3, "h": 3.1, "from": "ring"},
+  {"mm": [737.9, 312.6, 742.3, 315.6], "w": 4.3, "h": 3.0, "from": "ring"},
+  {"mm": [779.0, 311.3, 781.1, 314.4], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [402.4, 179.2, 405.7, 183.5], "w": 3.2, "h": 4.3, "from": "ring"},
+  {"mm": [670.2, 63.5, 681.4, 69.1], "w": 11.2, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [681.8, 63.0, 692.6, 68.7], "w": 10.8, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [51.8, 62.1, 54.0, 65.2], "w": 2.2, "h": 3.1, "from": "ring"},
+  {"mm": [774.2, 59.6, 783.3, 65.2], "w": 9.1, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [98.5, 56.1, 100.7, 59.2], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [645.5, 30.7, 647.7, 33.7], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [693.9, 13.4, 696.2, 16.8], "w": 2.3, "h": 3.5, "from": "ring"}
+ ],
+ "text": {
+  "words": 28,
+  "lines": [
+   {"mm": [738.4, 402.0, 750.5, 406.3], "text": "08J"},
+   {"mm": [731.9, 382.6, 750.5, 386.9], "text": "02y R40"},
+   {"mm": [367.5, 354.9, 403.3, 363.6], "text": "NO INSERTS"},
+   {"mm": [364.4, 350.6, 405.5, 356.9], "text": "(SLE PEVSERT NOIE)"},
+   {"mm": [380.0, 339.4, 392.9, 343.7], "text": "78,025"},
+   {"mm": [761.7, 332.5, 774.6, 338.7], "text": "REQD"},
+   {"mm": [731.9, 328.6, 749.2, 332.9], "text": "AETFR"},
+   {"mm": [420.6, 173.6, 496.1, 183.2], "text": "211-1 AS SHOWN (RH.S )"},
+   {"mm": [393.8, 160.2, 495.3, 173.2], "text": "900-03-211-2 OPP HAND (LA.S:)"},
+   {"mm": [49.2, 90.7, 198.2, 103.5], "text": "MATERIAL: ALUM ALLOY ANGLE 0.75 0.75 0.12"},
+   {"mm": [49.2, 80.7, 150.7, 90.6], "text": "FINISH: SAND 120 GriT AND PAINT"},
+   {"mm": [71.7, 74.3, 145.1, 83.9], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [71.7, 70.0, 117.0, 77.6], "text": "TEXCOTE MNY."},
+   {"mm": [54.0, 52.2, 77.7, 56.6], "text": "TULLRANOS"},
+   {"mm": [114.9, 49.7, 145.1, 59.3], "text": "XXES /-0.005"},
+   {"mm": [648.1, 47.5, 777.7, 59.2], "text": "WBS WARD-BECK SYSTEMS"},
+   {"mm": [685.7, 21.2, 772.1, 34.1], "text": "CONSOLE SUPPORT/TRIM"},
+   {"mm": [690.4, 30.2, 766.9, 41.0], "text": "EQUALIZER MK    SERIES"},
+   {"mm": [640.8, 10.8, 668.4, 19.4], "text": "NTS CCDE;"},
+   {"mm": [656.3, 16.8, 673.6, 21.2], "text": "Visc NO"},
+   {"mm": [710.7, 8.6, 753.9, 18.2], "text": "900-03-211"}
+  ]
+ },
+ "title_block": {"mm": [630.9, 36.9, 795.0, 69.9], "from": "title-block words (training set)", "text": ["WBS WARD-BECK SYSTEMS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical D 900-03-211, size D 864 × 530 mm, 2000 × 1228 px traced (0.432 mm/px)",
+  "- **Ink extent:** 6–864 mm across, 6–479 mm up",
+  "- **Outlines:** line 339 rings, 3,756 straight (18,119 mm) / 461 curved (1,174 mm); text 306 rings, 1,773 straight (3,373 mm) / 586 curved (1,460 mm); tb 22 rings, 175 straight (389 mm) / 44 curved (96.5 mm)",
+  "- **Centre lines:** 4,523 paths (116 closed); straight 12,499 mm, curved 44.6 mm; horizontal 7,430 mm, vertical 1,955 mm, diagonal 3,114 mm",
+  "- **Circles and arcs:** 0 circles, 7 arcs",
+  "- **Closed boxes:** 15 (3 in the title block)",
+  "- **Words (OCR):** 28 in 21 lines: 08J · 02y R40 · NO INSERTS · (SLE PEVSERT NOIE) · 78,025 · REQD · AETFR · 211-1 AS SHOWN (RH.S ) · 900-03-211-2 OPP HAND (LA.S:) · MATERIAL: ALUM ALLOY ANGLE 0.75 0.75 0.12 · FINISH: SAND 120 GriT AND PAINT · TEXTURED BROWN (438C)",
+  "- **Title block:** (631, 37)–(795, 70) mm: WBS WARD-BECK SYSTEMS"
+ ]
+}

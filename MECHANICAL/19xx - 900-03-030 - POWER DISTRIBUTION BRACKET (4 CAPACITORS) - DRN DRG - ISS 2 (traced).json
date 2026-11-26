@@ -1,0 +1,114 @@
+{
+ "drawing": "Modules/UNSORTED/M900/MECHANICAL/19xx - 900-03-030 - POWER DISTRIBUTION BRACKET (4 CAPACITORS) - DRN DRG - ISS 2.jpg",
+ "version": 1,
+ "trace": "_traces/aa3544d66819d96e.svg",
+ "sheet": {
+  "number": "D 900-03-030",
+  "title": "POWER DISTRIBUTION BRACKET / (4 CAPACITORS)",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "D",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1298],
+  "mm": [863.6, 560.5],
+  "mm_per_px": 0.4318
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 842.9, 541.0],
+ "outlines": {
+  "line": {"rings": 421, "straight": {"n": 3582, "mm": 20345.6}, "curved": {"n": 655, "mm": 1551.7}},
+  "text": {"rings": 272, "straight": {"n": 1507, "mm": 2880.9}, "curved": {"n": 506, "mm": 1253.4}},
+  "tb": {"rings": 17, "straight": {"n": 119, "mm": 306.2}, "curved": {"n": 28, "mm": 64.7}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3025, "straight": {"n": 3489, "mm": 10506.1}, "curved": {"n": 16, "mm": 36.2}},
+   "text": {"paths": 1770, "straight": {"n": 2200, "mm": 2273.5}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 208, "straight": {"n": 250, "mm": 744.0}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 142,
+  "orientation": {"horizontal": {"n": 1523, "mm": 7409.4}, "vertical": {"n": 1575, "mm": 2790.2}, "diagonal": {"n": 2841, "mm": 3323.9}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [305.3, 415.0], "r": 5.4, "kind": "arc", "span": 105, "from": ["centre line"], "start": 76},
+  {"c": [436.3, 118.0], "r": 2.9, "kind": "arc", "span": 150, "from": ["centre line"], "start": 165},
+  {"c": [749.3, 23.1], "r": 2.3, "kind": "arc", "span": 221, "from": ["centre line"], "start": 104},
+  {"c": [153.9, 83.5], "r": 1.8, "kind": "circle", "span": 273, "from": ["centre line"]},
+  {"c": [407.2, 416.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [514.3, 459.9, 518.7, 463.4], "w": 4.4, "h": 3.6, "from": "ring"},
+  {"mm": [659.8, 389.5, 661.9, 392.9], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [426.6, 342.8, 428.8, 346.3], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [664.5, 330.8, 666.7, 333.8], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [676.2, 330.8, 678.5, 333.8], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [344.6, 78.5, 349.8, 81.6], "w": 5.2, "h": 3.1, "from": "ring"},
+  {"mm": [734.5, 73.4, 746.2, 79.0], "w": 11.7, "h": 5.6, "from": "ring", "words": ["ISSUE] DATE]"], "in_title_block": true},
+  {"mm": [691.7, 54.4, 842.0, 73.1], "w": 150.3, "h": 18.7, "from": "ring", "words": ["WARD-BECK   SYSTEMS", "WBS"], "in_title_block": true},
+  {"mm": [691.7, 49.2, 726.3, 55.3], "w": 34.5, "h": 6.0, "from": "ring", "in_title_block": true},
+  {"mm": [726.7, 28.9, 841.6, 54.8], "w": 114.9, "h": 25.9, "from": "ring", "words": ["POWER   DISTRIBUTION", "BRACKET", "CAPACiTORS)"]},
+  {"mm": [691.7, 42.7, 726.3, 48.8], "w": 34.5, "h": 6.0, "from": "ring"},
+  {"mm": [692.2, 44.4, 696.9, 47.5], "w": 4.7, "h": 3.1, "from": "ring"},
+  {"mm": [697.4, 44.5, 699.5, 47.5], "w": 2.2, "h": 3.0, "from": "ring"},
+  {"mm": [691.7, 36.3, 726.3, 42.3], "w": 34.5, "h": 6.0, "from": "ring"},
+  {"mm": [697.4, 38.0, 699.6, 41.0], "w": 2.3, "h": 3.0, "from": "ring"},
+  {"mm": [691.3, 29.8, 726.3, 35.8], "w": 35.0, "h": 6.0, "from": "ring"},
+  {"mm": [709.4, 23.7, 744.4, 29.4], "w": 35.0, "h": 5.6, "from": "ring"},
+  {"mm": [744.9, 17.3, 755.2, 28.9], "w": 10.4, "h": 11.7, "from": "ring"},
+  {"mm": [756.1, 16.4, 825.6, 28.9], "w": 69.5, "h": 12.5, "from": "ring", "words": ["900-03", "030"]},
+  {"mm": [826.0, 16.4, 841.6, 28.5], "w": 15.5, "h": 12.1, "from": "ring"},
+  {"mm": [836.4, 24.6, 838.6, 28.1], "w": 2.2, "h": 3.5, "from": "ring"},
+  {"mm": [735.8, 24.6, 743.6, 27.2], "w": 7.8, "h": 2.6, "from": "ring"},
+  {"mm": [709.4, 17.3, 744.4, 23.3], "w": 35.0, "h": 6.0, "from": "ring", "words": ["COCE_", "bojojo"]}
+ ],
+ "text": {
+  "words": 35,
+  "lines": [
+   {"mm": [302.3, 443.9, 318.7, 448.2], "text": "FITCHFS"},
+   {"mm": [642.5, 439.6, 654.2, 443.9], "text": "0M3"},
+   {"mm": [196.5, 414.5, 208.1, 418.8], "text": "0 840"},
+   {"mm": [149.8, 395.1, 161.9, 399.4], "text": "3450"},
+   {"mm": [152.0, 342.4, 164.9, 346.7], "text": "OCTAL"},
+   {"mm": [181.4, 342.4, 193.4, 346.7], "text": "REC'D"},
+   {"mm": [632.2, 329.0, 663.2, 335.7], "text": "CTANTER 020"},
+   {"mm": [694.8, 329.0, 708.6, 335.7], "text": "REO\"D"},
+   {"mm": [202.1, 284.1, 213.7, 288.4], "text": "0,750"},
+   {"mm": [430.9, 140.3, 442.6, 144.7], "text": "1CJO"},
+   {"mm": [112.7, 104.1, 227.1, 113.0], "text": "MATERIAL: ALUM ALLOY 0.080 ThICK ,"},
+   {"mm": [358.4, 104.9, 370.5, 109.2], "text": "030"},
+   {"mm": [112.7, 91.1, 219.8, 100.1], "text": "FINISH: SAND 120 GRIT AND PAINT"},
+   {"mm": [137.7, 84.6, 215.5, 92.3], "text": "TEXTURED BROWN (438C)"},
+   {"mm": [364.9, 77.7, 376.5, 82.0], "text": "RCOD"},
+   {"mm": [400.7, 79.0, 412.4, 83.3], "text": "04424"},
+   {"mm": [722.8, 71.7, 747.4, 78.4], "text": "ISSUE] DATE]"},
+   {"mm": [145.1, 62.2, 183.5, 68.9], "text": "BURAS AND ZhARF"},
+   {"mm": [702.1, 60.0, 734.5, 67.7], "text": "WBS"},
+   {"mm": [748.7, 58.7, 836.0, 69.8], "text": "WARD-BECK   SYSTEMS"},
+   {"mm": [120.0, 59.6, 144.7, 63.9], "text": "TOLERASCES"},
+   {"mm": [426.6, 53.1, 440.4, 57.4], "text": "DETAIL"},
+   {"mm": [746.6, 43.6, 821.7, 52.2], "text": "POWER   DISTRIBUTION"},
+   {"mm": [766.9, 36.3, 800.6, 44.9], "text": "BRACKET"},
+   {"mm": [771.2, 29.8, 804.9, 36.0], "text": "CAPACiTORS)"},
+   {"mm": [709.0, 18.6, 740.5, 22.9], "text": "COCE_ bojojo"},
+   {"mm": [766.9, 17.7, 814.4, 26.3], "text": "900-03 030"}
+  ]
+ },
+ "title_block": {
+  "mm": [684.9, 47.6, 853.3, 89.5],
+  "from": "title-block words (training set)",
+  "text": ["ISSUE] DATE]", "WBS", "WARD-BECK   SYSTEMS", "POWER   DISTRIBUTION"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical D 900-03-030, size D 864 × 560 mm, 2000 × 1298 px traced (0.432 mm/px)",
+  "- **Ink extent:** 0–843 mm across, 0–541 mm up",
+  "- **Outlines:** line 421 rings, 3,582 straight (20,346 mm) / 655 curved (1,552 mm); text 272 rings, 1,507 straight (2,881 mm) / 506 curved (1,253 mm); tb 17 rings, 119 straight (306 mm) / 28 curved (64.7 mm)",
+  "- **Centre lines:** 5,003 paths (142 closed); straight 13,524 mm, curved 36.2 mm; horizontal 7,409 mm, vertical 2,790 mm, diagonal 3,324 mm",
+  "- **Circles and arcs:** 2 circles, 3 arcs; largest r 1.8 @ (153.9, 83.5), r 1.8 @ (407.2, 416.4)",
+  "- **Closed boxes:** 23 (3 in the title block); named: POWER   DISTRIBUTION BRACKET CAPACiTORS); 900-03 030; COCE_ bojojo",
+  "- **Words (OCR):** 35 in 27 lines: FITCHFS · 0M3 · 0 840 · 3450 · OCTAL · REC'D · CTANTER 020 · REO\"D · 0,750 · 1CJO · MATERIAL: ALUM ALLOY 0.080 ThICK , · 030",
+  "- **Title block:** (685, 48)–(853, 90) mm: ISSUE] DATE] · WBS · WARD-BECK   SYSTEMS · POWER   DISTRIBUTION"
+ ]
+}
