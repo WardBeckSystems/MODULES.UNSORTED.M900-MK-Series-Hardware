@@ -33,7 +33,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 27 in 22 lines: DATUL · DETA · 440C12 · FUNcK · W8 · DETAIL · MATERIAL: ALUM ALLOY 0.080 THICK · FINISH; SAND · GRIT AND PAINT · TEXTURED   BEICE (452C) · Sse DATE · TEXCOTE MNY.
 - **Title block:** (616, 59)–(778, 98) mm: Sse DATE · WBS · WARD-BECK   SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-315 - TV SERIES METER PANELS (STANDARD) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-315%20-%20TV%20SERIES%20METER%20PANELS%20(STANDARD)%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-315 - TV SERIES METER PANELS (STANDARD) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-315 - TV SERIES METER PANELS (STANDARD) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-315%20-%20TV%20SERIES%20METER%20PANELS%20%28STANDARD%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-315 - TV SERIES METER PANELS (STANDARD) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 30 in 27 lines: 33 · 900-03-020- · (0.175 [ 4 · 98 · 13 · 900 · 020-2 · SSONECESD ARY · 900-03-020-3 · 0,570 · MATERIAL: · CRS 0.074 THICK
 - **Title block:** (688, 46)–(858, 79) mm: REUSID · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-020 - MK SERIES METER BRIDGE LID SUPPORT - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20900-03-020%20-%20MK%20SERIES%20METER%20BRIDGE%20LID%20SUPPORT%20-%20DRN%20DRG%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 900-03-020 - MK SERIES METER BRIDGE LID SUPPORT - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-020 - MK SERIES METER BRIDGE LID SUPPORT - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20900-03-020%20-%20MK%20SERIES%20METER%20BRIDGE%20LID%20SUPPORT%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 900-03-020 - MK SERIES METER BRIDGE LID SUPPORT - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 19 in 14 lines: 6 E00 · MATERIAL: ALUM ALLOY 0.064 MHICK · PART NUMBER MODULE COUNT · FINISH: · SAND 120 GRIT AND PAINT · TEXTURED BROWN (438C) · TEXCOTE VINYL. · REVSIS · WBS · WARD-BECK SYSTEMS · TOLERA "cES · FRONT PANEL
 - **Title block:** (685, 47)–(853, 80) mm: REVSIS · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-035%20-%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-035%20-%20FRONT%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-035 - FRONT PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

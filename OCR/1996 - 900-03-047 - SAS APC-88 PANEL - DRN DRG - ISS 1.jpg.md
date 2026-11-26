@@ -33,7 +33,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 53 in 39 lines: 883 33 3 3 · REC D · 0,250 · O.8c0 · Aitch(o 425} (7) · 900-03-047-1 APC 881C PANEL · (Omit   CONTENTS OF  ELLIPSE) · 900 05 _ · 047-2 APC BBRS PANEL · (AS  SHOWN) · 0.00 · 0,250
 - **Title block:** (697, 67)–(864, 108) mm: ISSVEI DATE · RIHSDY · WARD-BECK SYSTEMS · WBS · SAS
 
-Every curve, box, word and wire group: [1996 - 900-03-047 - SAS APC-88 PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1996%20-%20900-03-047%20-%20SAS%20APC-88%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1996 - 900-03-047 - SAS APC-88 PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 900-03-047 - SAS APC-88 PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1996%20-%20900-03-047%20-%20SAS%20APC-88%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 900-03-047 - SAS APC-88 PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

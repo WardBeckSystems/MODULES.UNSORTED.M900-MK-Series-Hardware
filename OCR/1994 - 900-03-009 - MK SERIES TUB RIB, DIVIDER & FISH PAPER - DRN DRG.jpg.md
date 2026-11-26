@@ -34,7 +34,7 @@ Mechanical drawing of tub rib, divider and fish paper parts.
 - **Words (OCR):** 56 in 46 lines: 15JZ0 · 900-03 009_ · FISH PAPER · 900-03-009 - · DIVIDER · 900-03-009- · MATERIAL: · ALUM · ALLOY 0.064 · ThICK · IREQQA · FINISH: TEXTURED BEIGE (452C)
 - **Title block:** (710, 55)–(864, 92) mm: 7 /94AC0ED · WARD-BECK SYSTEMS · WBS · MK SERIES
 
-Every curve, box, word and wire group: [1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG (traced).json](../MECHANICAL/1994%20-%20900-03-009%20-%20MK%20SERIES%20TUB%20RIB%2C%20DIVIDER%20%26%20FISH%20PAPER%20-%20DRN%20DRG%20(traced).json) (the CAD file: `1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG (traced).dxf`).
+Every curve, box, word and wire group: [1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG (traced).json](../MECHANICAL/1994%20-%20900-03-009%20-%20MK%20SERIES%20TUB%20RIB%2C%20DIVIDER%20%26%20FISH%20PAPER%20-%20DRN%20DRG%20%28traced%29.json) (the CAD file: `1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG (traced).dxf`).
 
 ## Full text
 

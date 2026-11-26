@@ -34,7 +34,7 @@ Mechanical drawing of a removable bottom pan with vent slots.
 - **Words (OCR):** 36 in 29 lines: (D) REo · ODLCNG · 20 0+ · PITCN{7.J75} (H) · PART NUMBER · MODULE COUNT · 75.59 · 18-075 · MATERIAL: ALUM · ALLOY 0.06 THICK · 39.978 · 45.972
 - **Title block:** (689, 42)–(858, 84) mm: ISSUE DATE · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-202 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-202%20-%20EQUALIZER%20MK%20SERIES%20BOTTOM%20PAN%20(REMOVABLE)%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-202 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-202 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-202%20-%20EQUALIZER%20MK%20SERIES%20BOTTOM%20PAN%20%28REMOVABLE%29%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-202 - EQUALIZER MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

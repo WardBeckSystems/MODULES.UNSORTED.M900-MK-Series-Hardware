@@ -31,7 +31,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 28 in 23 lines: ECCES' · 900-03 040-2 · 900-03-040-3 · COUSOLE) · OTHER · REO ERS) · 900-03-040_ · COYSOLE; · 0.5o? · 845 · MATERIAL: ALUM ALLOY 0.040 THICK; · FinISH:  SAND 120 Grit AND Paint
 - **Title block:** (670, 58)–(835, 90) mm: [Ssuel DAIE · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-040 - APPLIQUES (USE WITH LEG ASSEMBLY) - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-040%20-%20APPLIQUES%20(USE%20WITH%20LEG%20ASSEMBLY)%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-040 - APPLIQUES (USE WITH LEG ASSEMBLY) - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-040 - APPLIQUES (USE WITH LEG ASSEMBLY) - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-040%20-%20APPLIQUES%20%28USE%20WITH%20LEG%20ASSEMBLY%29%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-040 - APPLIQUES (USE WITH LEG ASSEMBLY) - ISS 1 (traced).dxf`).
 
 ## Full text
 

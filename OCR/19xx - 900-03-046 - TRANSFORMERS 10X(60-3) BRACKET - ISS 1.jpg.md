@@ -30,7 +30,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Closed boxes:** 25; named: WARD-BECK SYSTEMS WB3S; TRANSFORMERS 1OX(60-3) BRACKET; 900-03-046; 9000+6
 - **Words (OCR):** 20 in 19 lines: 0.140 DA · FITCHES · CAAMFFR 0.05 · DEATL · ALUM ALLOY 080 ThiCK. · MATERIAL: · 0.25 CaloNG · FINISH: · SAND 120 GRIT AND PAINT · DETAIL · TEXCOTE VNYL. · TEXTURED BROWN (438C)
 
-Every curve, box, word and wire group: [19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-046%20-%20TRANSFORMERS%2010X(60-3)%20BRACKET%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-046%20-%20TRANSFORMERS%2010X%2860-3%29%20BRACKET%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 42 in 35 lines: NOTCKEQCCORDNGLY · 0110 DA · RFOD · DETAL · REC D · 3050 · DETAL · RZO'D · 0,12 REOD · REOD · CCKNEKSO) · 0,sca
 - **Title block:** (702, 56)–(864, 98) mm: ISSUE DAIEL · WBS · WARD-BECK   SYSTEMS · MK  SERIES
 
-Every curve, box, word and wire group: [19xx - 900-03-027 - MK SERIES CONNECTOR PANEL (REAR L.H.S.) - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20900-03-027%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20(REAR%20L.H.S.)%20-%20DRN%20DRG%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 900-03-027 - MK SERIES CONNECTOR PANEL (REAR L.H.S.) - DRN DRG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-027 - MK SERIES CONNECTOR PANEL (REAR L.H.S.) - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20900-03-027%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20%28REAR%20L.H.S.%29%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 900-03-027 - MK SERIES CONNECTOR PANEL (REAR L.H.S.) - DRN DRG - ISS 3 (traced).dxf`).
 
 ## Full text
 

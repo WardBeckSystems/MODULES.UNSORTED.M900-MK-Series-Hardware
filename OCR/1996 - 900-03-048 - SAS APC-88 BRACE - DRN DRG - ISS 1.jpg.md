@@ -33,7 +33,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 24 in 22 lines: 0740 · NEEDCL · 4ATCRUL · (2:1) · DAT · DATUU · CNSTALL · DAUU · MATERIAL: SEE · BODY OF DRAVANG. · FINISH: · SAND 120 CRIT AND PAINT
 - **Title block:** (681, 62)–(848, 95) mm: WARD-BECK   SYSTEMS · WBS · SAS
 
-Every curve, box, word and wire group: [1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1996%20-%20900-03-048%20-%20SAS%20APC-88%20BRACE%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1 (traced).json](../MECHANICAL/1996%20-%20900-03-048%20-%20SAS%20APC-88%20BRACE%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

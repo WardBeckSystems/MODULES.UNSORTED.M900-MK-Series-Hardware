@@ -31,7 +31,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 27 in 24 lines: Red"d · 44.250 · 5F · CEINL · psod · CHAUFER · REC D · KATERIAL: ALUM · ALLOY 080 THICK. · 0,9Je · 0.250 · FINISH:
 - **Title block:** (683, 46)–(852, 79) mm: AEHSCN · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20900-03-025%20-%20POWER%20DISTRIBUTION%20BRACKET%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20900-03-025%20-%20POWER%20DISTRIBUTION%20BRACKET%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 900-03-025 - POWER DISTRIBUTION BRACKET - ISS 3 (traced).dxf`).
 
 ## Full text
 

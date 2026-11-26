@@ -33,7 +33,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 41 in 32 lines: REC D · Fosz RAOS) · DETAIL · RECD · DaTM · "REQD · DETAL · 900 · 015-1 (16 MODULES) · (FoR 5/5 · 0.90S · ALOD
 - **Title block:** (674, 47)–(842, 78) mm: WBS · WARD-BECK  SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-015 - MK SERIES METER PANELS (STANDARD) - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20900-03-015%20-%20MK%20SERIES%20METER%20PANELS%20(STANDARD)%20-%20DRN%20DRG%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 900-03-015 - MK SERIES METER PANELS (STANDARD) - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-015 - MK SERIES METER PANELS (STANDARD) - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20900-03-015%20-%20MK%20SERIES%20METER%20PANELS%20%28STANDARD%29%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 900-03-015 - MK SERIES METER PANELS (STANDARD) - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

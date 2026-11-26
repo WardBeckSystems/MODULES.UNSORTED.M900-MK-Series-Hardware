@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 19 in 18 lines: 2f · ~OTCRLCCCORDINGLY · DAT · MATERIAL: CRS: 0.059 · THICK. · NINISH: · SAND 120 GRIT AND PAINT · TEXTURED BROWN (438C) · TEXCOTE MNYL · TDLERANCES · SHARI · reo"d
 - **Title block:** (687, 45)–(856, 78) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20900-03-018%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20900-03-018%20-%20MK%20SERIES%20CONNECTOR%20PANEL%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3 (traced).dxf`).
 
 ## Full text
 

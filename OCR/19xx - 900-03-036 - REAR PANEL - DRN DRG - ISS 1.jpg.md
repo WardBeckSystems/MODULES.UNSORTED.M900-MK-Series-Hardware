@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 28 in 22 lines: PcH · 0.405 · REC D · 0IS Dp · 1.20 IP_ · PART NUMBER MODULE COUNT · MATERIAL: ALUK ALLOY 0.064 ThICK · 26.50 · FINISH: SAND 120 GRIT AND PAINT · 4460 · TEXTURED BROWN (438C) · 950-0}
 - **Title block:** (675, 37)–(854, 80) mm: WBS · WARD-BECK  SYSTEMS · IDRN: · REAR PANEL
 
-Every curve, box, word and wire group: [19xx - 900-03-036 - REAR PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-036%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-036 - REAR PANEL - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-036 - REAR PANEL - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-036%20-%20REAR%20PANEL%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-036 - REAR PANEL - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

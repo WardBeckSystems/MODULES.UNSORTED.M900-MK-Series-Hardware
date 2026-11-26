@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 31 in 22 lines: DATUM · DETAIL · (H) RECYo · 38 SEE Dnc · 0,250 · DETAIL · PART NUMBER MCDULE COUNT · MATERIAL: CR.S 0.059 · MhiCK · FINISH: SAND 120 GRIT AND PAINT · 3197s · 47.375
 - **Title block:** (689, 44)–(859, 86) mm: ISSEIDATE · WBS · WARD-BECK  SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20900-03-013%20-%20MK%20SERIES%20METER%20HOUSING%20LID%20-%20DRN%20DRG%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20900-03-013%20-%20MK%20SERIES%20METER%20HOUSING%20LID%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

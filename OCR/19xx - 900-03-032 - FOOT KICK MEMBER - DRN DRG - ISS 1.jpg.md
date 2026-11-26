@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 29 in 23 lines: REQ D · 5 970 · ar · 0.449 · 075 Mp · PART NUMBER MODULE COUNT · 44670 · MATERIAL: CRS: 0.074 ThiCK · FINISH: SAND 120 GRIT AND PAINT · TEXTURED BROWN · (438C ) · WBS
 - **Title block:** (686, 47)–(856, 80) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-032 - FOOT KICK MEMBER - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-032%20-%20FOOT%20KICK%20MEMBER%20-%20DRN%20DRG%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 900-03-032 - FOOT KICK MEMBER - DRN DRG - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-032 - FOOT KICK MEMBER - DRN DRG - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20900-03-032%20-%20FOOT%20KICK%20MEMBER%20-%20DRN%20DRG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 900-03-032 - FOOT KICK MEMBER - DRN DRG - ISS 1 (traced).dxf`).
 
 ## Full text
 

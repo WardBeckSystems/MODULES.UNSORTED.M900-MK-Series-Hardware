@@ -32,7 +32,7 @@ Wiki page: [M900](../../../../PAGES/M900.md)
 - **Words (OCR):** 30 in 25 lines: 3 #8 · REC D/END · (0) REQT · DATUM · 03-32 UNC · (K) REQ D · PART NUMBER MODULE COUNT · 24,010 · 21000 · z0Cod · MATERIAL; CR.s 0.074 ThICK · 2CO
 - **Title block:** (687, 47)–(857, 80) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4 (traced).json](../MECHANICAL/19xx%20-%20900-03-004%20-%20MK%20SERIES%20PANDUIT%20TROUGH%20-%20DRN%20DRG%20-%20ISS%204%20(traced).json) (the CAD file: `19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4 (traced).json](../MECHANICAL/19xx%20-%20900-03-004%20-%20MK%20SERIES%20PANDUIT%20TROUGH%20-%20DRN%20DRG%20-%20ISS%204%20%28traced%29.json) (the CAD file: `19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4 (traced).dxf`).
 
 ## Full text
 

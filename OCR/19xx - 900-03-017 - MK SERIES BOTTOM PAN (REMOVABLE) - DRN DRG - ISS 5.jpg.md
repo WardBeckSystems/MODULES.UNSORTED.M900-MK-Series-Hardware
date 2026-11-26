@@ -34,7 +34,7 @@ Mechanical drawing of a removable bottom pan with vent slots.
 - **Words (OCR):** 37 in 29 lines: (D) REcD · 419 KEF · 0.62 DIA · Noict · OEJD · TDTAL groupS · PITC{0.250)(24}e(G.0J0) · RFC D · PART NUMBER MODULE COUNT · MATERIAL: ALUK ALLOY 0.06 THICK · 1-000 · 16.550
 - **Title block:** (687, 46)–(858, 79) mm: WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5 (traced).json](../MECHANICAL/19xx%20-%20900-03-017%20-%20MK%20SERIES%20BOTTOM%20PAN%20(REMOVABLE)%20-%20DRN%20DRG%20-%20ISS%205%20(traced).json) (the CAD file: `19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5 (traced).json](../MECHANICAL/19xx%20-%20900-03-017%20-%20MK%20SERIES%20BOTTOM%20PAN%20%28REMOVABLE%29%20-%20DRN%20DRG%20-%20ISS%205%20%28traced%29.json) (the CAD file: `19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5 (traced).dxf`).
 
 ## Full text
 
