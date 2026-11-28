@@ -1,5 +1,5 @@
 # 19xx - 900-03-102 - EXTENDED MK SERIES BOTTOM PAN (REMOVABLE) - ISS 1.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

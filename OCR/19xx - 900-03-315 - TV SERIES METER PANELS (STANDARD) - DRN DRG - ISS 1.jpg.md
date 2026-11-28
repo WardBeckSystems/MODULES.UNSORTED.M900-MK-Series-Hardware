@@ -1,5 +1,5 @@
 # 19xx - 900-03-315 - TV SERIES METER PANELS (STANDARD) - DRN DRG - ISS 1.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

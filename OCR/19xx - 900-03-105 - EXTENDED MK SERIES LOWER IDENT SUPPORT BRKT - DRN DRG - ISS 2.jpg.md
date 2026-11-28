@@ -1,5 +1,5 @@
 # 19xx - 900-03-105 - EXTENDED MK SERIES LOWER IDENT SUPPORT BRKT - DRN DRG - ISS 2.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

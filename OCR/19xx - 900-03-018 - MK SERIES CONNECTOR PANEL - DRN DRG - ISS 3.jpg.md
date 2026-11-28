@@ -1,5 +1,5 @@
 # 19xx - 900-03-018 - MK SERIES CONNECTOR PANEL - DRN DRG - ISS 3.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

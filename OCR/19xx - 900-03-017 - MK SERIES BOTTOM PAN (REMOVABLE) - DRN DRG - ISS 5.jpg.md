@@ -1,5 +1,5 @@
 # 19xx - 900-03-017 - MK SERIES BOTTOM PAN (REMOVABLE) - DRN DRG - ISS 5.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

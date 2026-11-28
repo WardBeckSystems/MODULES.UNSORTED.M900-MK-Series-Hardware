@@ -1,5 +1,5 @@
 # 19xx - 900-03-046 - TRANSFORMERS 10X(60-3) BRACKET - ISS 1.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

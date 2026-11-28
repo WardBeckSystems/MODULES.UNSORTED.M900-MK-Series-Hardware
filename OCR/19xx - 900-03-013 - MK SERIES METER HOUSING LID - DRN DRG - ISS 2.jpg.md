@@ -1,5 +1,5 @@
 # 19xx - 900-03-013 - MK SERIES METER HOUSING LID - DRN DRG - ISS 2.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

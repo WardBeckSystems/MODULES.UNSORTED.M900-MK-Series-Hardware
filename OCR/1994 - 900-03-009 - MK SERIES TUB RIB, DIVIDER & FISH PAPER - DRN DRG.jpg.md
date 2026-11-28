@@ -1,5 +1,5 @@
 # 1994 - 900-03-009 - MK SERIES TUB RIB, DIVIDER & FISH PAPER - DRN DRG.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** 1994 (title block date)

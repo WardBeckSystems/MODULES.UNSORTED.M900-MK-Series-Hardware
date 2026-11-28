@@ -1,5 +1,5 @@
 # 19xx - 900-03-104 - EXTENDED MK SERIES IDENT EXTRUSION COVER - DRN DRG - ISS 1.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

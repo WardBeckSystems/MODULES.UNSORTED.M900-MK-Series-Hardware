@@ -1,6 +1,6 @@
 # M900 MK Series Hardware · Renaissance
 
-Ward-Beck Systems M900, 1994|27. Wiki page: [M900 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M900.html)
+Ward-Beck Systems M900, 1994|27. Wiki page: [M900 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M900-MK-Series-Hardware/)
 
 | Folder | What is in it | Files |
 |---|---|---|

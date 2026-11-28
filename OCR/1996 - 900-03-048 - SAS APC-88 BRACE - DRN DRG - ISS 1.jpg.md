@@ -1,5 +1,5 @@
 # 1996 - 900-03-048 - SAS APC-88 BRACE - DRN DRG - ISS 1.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** 1996 (title block date)

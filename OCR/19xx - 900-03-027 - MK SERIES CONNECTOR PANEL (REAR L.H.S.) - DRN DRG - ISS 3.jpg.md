@@ -1,5 +1,5 @@
 # 19xx - 900-03-027 - MK SERIES CONNECTOR PANEL (REAR L.H.S.) - DRN DRG - ISS 3.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))

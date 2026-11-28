@@ -1,5 +1,5 @@
 # 19xx - 900-03-004 - MK SERIES PANDUIT TROUGH - DRN DRG - ISS 4.jpg
-Wiki page: [M900](../../../../PAGES/M900.md)
+Wiki page: [M900](../)
 
 
 - **Year:** unknown (title block (read by eye))
