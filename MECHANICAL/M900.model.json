@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M900",
- "repo": "MODULES.UNSORTED.M900-MK-Series-Hardware",
+ "repo": "MODULES.RENAISSANCE.M900-MK-Series-Hardware",
  "title": "MK Series Hardware",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",
